@@ -1849,7 +1849,7 @@
  incidents_bur_inheritance.1.t:0 "Бургундська спадщина"
  incidents_bur_inheritance.1.desc:1 "Як ми й боялися герцог [Root.GetNameOGO] відійшов на небеса не залишивши підходящого спадкоємця чоловічої статі. Після його передчасної смерті [Root.Monarch.GetName] [Root.Monarch.Dynasty.GetName] стала новою [Root.Monarch.GetTitleKYM] Бургундії. Однак, оскільки [Root.Monarch.GetHerHis] претензії відносно слабкі в очах багатьох благородних лордів та дам, Бургундія сприймається як легка здобич для таких амбітних володарів як [FRA.Monarch.GetTitle] [FRA.GetNameOGO] та [Emperor.Monarch.GetTitle] Священної Римської імперії.\n\n[Root.Monarch.GetName] - смілива і розумна молода жінка, але якщо Бургундія хоче пережити цю кризу, не нариваючись на конфлікт з однією з великих держав, то [Root.Monarch.GetName] повинна поріднитися з могутньою королівською родиною, аби шукати їх підтримки та захисту. Звичайно, [Root.Monarch.GetName] одружиться за традиційним патрілінейним шлюбом, тому Бургундія фактично опиниться під владою іноземної держави, але в цей час великого хаосу, який вибір ми маємо?"
  incidents_bur_inheritance.1.a:0 "Щоб не сталося, Бургундія залишиться бургундською."
- incidents_bur_inheritance.1.b:0 "The French aren't here to stop us anymore."
+ incidents_bur_inheritance.1.b:0 "Французів більше немає, щоб зупинити нас."
  incidents_bur_inheritance.1.c:0 "Князь з династії [Emperor.Monarch.Dynasty.GetName] цілком непоганий."
  incidents_bur_inheritance.1.d:0 "[bur_strongest_ally.GetName] знову захистить нас."
  incidents_bur_inheritance.1.e:0 "Ми возз'єднаємося із французами."
